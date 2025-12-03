@@ -1,0 +1,20 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+.info-box {
+  border: 2px solid #ddd;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
